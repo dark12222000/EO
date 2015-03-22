@@ -26,3 +26,9 @@ var client = new eo.client({key: '123', vkey: 'abc'});
 #Questions#
 1. Fixed URLs or open types?
 2. Allow cache clearing? - yes but throw warning
+
+#Actual To do#
+1. Promises
+2. Verbose methods - char.getWallet().success(....
+2. Allow user to set cache backend
+3. Docs
